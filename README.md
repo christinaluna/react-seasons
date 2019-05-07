@@ -1,3 +1,7 @@
+## What is this app?
+
+Simple, this app gets the user's location, curent month and identifies the season based on the latitude and date.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
